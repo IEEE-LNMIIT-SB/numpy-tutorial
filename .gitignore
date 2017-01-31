@@ -1,1 +1,7 @@
-.ipynb_checkpoints/
+__pycache__
+*.egg-info
+*~
+*.bak
+.ipynb_checkpoints
+.tox
+.
